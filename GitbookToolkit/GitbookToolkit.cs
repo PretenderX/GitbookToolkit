@@ -194,7 +194,7 @@ namespace GitbookToolkit
                     {
                         StartMessage = $"正在生成{itemType}文件...",
                         Scripts = scripts,
-                        EndMessage = $"{itemType}文件已生成..."
+                        EndMessage = "执行完毕..."
                     });
                 }
             }

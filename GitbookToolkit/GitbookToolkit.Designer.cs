@@ -59,7 +59,6 @@
             this.txtBookRootPath.Name = "txtBookRootPath";
             this.txtBookRootPath.Size = new System.Drawing.Size(458, 22);
             this.txtBookRootPath.TabIndex = 1;
-            this.txtBookRootPath.Text = "C:\\GitRepositories\\GitbookTemplate\\Book";
             // 
             // btnSelectBookRootPath
             // 
